@@ -1,0 +1,39 @@
+table {
+  margin: 50px auto;
+  font-family: sans-serif;
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 1000px;
+}
+
+th, td {
+  border: 1px solid black;
+  text-align: middle;
+}
+
+th {
+  background-color: lightblue;
+  cursor: pointer;
+}
+
+button {
+  background-color: lightblue;
+  border: none;
+  color: black;
+  padding: 7px 13px;
+  text-align: center;
+  margin: 1px 2px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.delete-button {
+  background-color: #e29999;
+  border: none;
+  color: black;
+  padding: 7px 13px;
+  text-align: center;
+  margin: 1px 2px;
+  cursor: pointer;
+}
